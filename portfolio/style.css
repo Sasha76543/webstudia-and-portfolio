@@ -1,0 +1,271 @@
+span {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.contact-list {
+  display: flex;
+  justify-content: space-between;
+  width: 307px;
+}
+.conateiner {
+  max-width: 1200px;
+  margin: 0 auto;
+  outline: 2px solid black;
+}
+.tiel {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+.nawlist {
+  display: flex;
+  width: 1600px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.navmenu {
+  display: flex;
+  width: 520px;
+  justify-content: space-between;
+}
+
+.put {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+.tel {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #757575;
+}
+.robota {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: 0 auto;
+}
+.git {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  height: 38px;
+  width: 73px;
+  border-radius: 4px;
+
+  /* identical to box height, or 162% */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+.tor {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  height: 38px;
+  width: 125px;
+  border-radius: 4px;
+
+  /* identical to box height, or 162% */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+a {
+  text-decoration: none;
+}
+.sad {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.wet {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  outline: 2px black;
+}
+.veg {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  outline: 2px black;
+}
+.nuz {
+  background-color: rgba(47, 48, 58, 1);
+  width: 1600px 252px;
+}
+.qer {
+  background-color: 2175F3;
+}
+.wer {
+  background-color: white;
+}
+.tirl {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #212121;
+}
+.ret {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.vse {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+.vre {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+main {
+  height: 1360px;
+  width: 1170px;
+  left: 215px;
+  top: 174px;
+}
+header {
+  width: 1600px 80px;
+}
+.contect-list {
+  display: flex;
+  justify-content: space-between;
+  width: 307px;
+  text-align: center;
+}
+.bla {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: black;
+}
+.uop {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 281px;
+}
+.robota {
+  text-align: center;
+  height: 54px;
+  width: 575px;
+  border-radius: [object Object]px;
+}
+.sad {
+  width: 1000px;
+  text-align: ;
+}
+.mainlist {
+  padding-top: 30px;
+  background-color: #ffffff;
+  max-width: 1170px;
+}
+.tor {
+  outline: 2px gray;
+  background-color: 2196F3;
+}
+.git {
+  outline: 2px gray;
+  background-color: aqua;
+}
+.gyt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.grt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.header {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  outline: 1px solid black;
+  margin: 0 auto;
+}
+.zamoruvsy {
+  max-width: 370px;
+  height: 404px;
+  width: 370px;
+  border-radius: 0px;
+}
+.contactis {
+  height: 81px;
+  width: 231px;
+  border-radius: nullpx;
+}
